@@ -6,9 +6,9 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Helo-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Helo-Lat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg">
   <img align="center" alt="Helo-Mat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg">
   <img align="center" alt="Helo-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Helo-Lat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg">
 </div>
   
   ##
